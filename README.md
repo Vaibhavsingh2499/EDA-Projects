@@ -1,5 +1,5 @@
 # EDA-Projects
-# 📺 Netflix Titles Dataset: Exploratory Data Analysis (EDA)
+#  Netflix Titles Dataset: Exploratory Data Analysis (EDA)
 
 This project explores Netflix's content catalog to uncover patterns, trends, and business insights using exploratory data analysis techniques. We clean and prepare the data, create visualizations, and generate insights to inform decisions like content strategy, genre trends, and actor partnerships.
 
